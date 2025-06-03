@@ -2,6 +2,7 @@
 
 
 .section .text
+.include "generated_signal.s"
 .global _start
 _start:
 ## START YOUR CODE HERE
